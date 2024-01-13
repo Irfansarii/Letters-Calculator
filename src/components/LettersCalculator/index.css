@@ -1,0 +1,23 @@
+.container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+}
+.searchInput {
+  color: #e4e7eb;
+}
+.button {
+  color: #219a6f;
+  background-color: white;
+  height: 50px;
+  width: 170px;
+}
+.image {
+  height: 250px;
+  width: 250px;
+}
+*{
+  box-sizing: border-box;
+  margin: 0px;
+}
